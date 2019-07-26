@@ -14,7 +14,7 @@ My multiple versions of php were originally set up by way of this [great post](h
 brew tap exolnet/homebrew-deprecated
 ```
 
-# Language: 中文
+# 语言: 中文
 ## homebrew-php56 找不到
 
 如若你在安装 php5.6 ```brew install php@56```时遇到下面的报错，那么可以选择往下读。
