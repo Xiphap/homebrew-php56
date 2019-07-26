@@ -36,6 +36,7 @@ Error: No formulae found in taps.
 ```
 ### 原因
 [官方声明链接](https://brew.sh/2018/01/19/homebrew-1.5.0/)
+
 Homebrew 2018.1.18 更新的 1.5.0 版本宣布将于 2018.3.31 废除 Homebrew/php，也即意味着我们不能够通过```brew install php56```或```brew install php@5.6```来安装指定版本的 PHP。
 ### 解决方案
 执行下面代码
